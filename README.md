@@ -1,1 +1,1 @@
-# pzw-zavrsni-projekt-2020
+# Zavrsni projekt kolegija "Programiranje za web"

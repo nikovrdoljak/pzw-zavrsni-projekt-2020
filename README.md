@@ -15,6 +15,7 @@ Poželjno je primjeniti većinu od dosad naučenih tehnika/tehnologija/jezika:
 * Web forme
 * Autentifikacija
 * Bootstrap ili sličan CSS framework
+* _Opcionalno (samostalno istraživanje i rad): autorizacija, logiranje, internacionalizacija, testovi._
 
 ## Primjeri web aplikacija (ideje):
 * Osobni portal
@@ -38,7 +39,7 @@ Izvorni kod je potrebno staviti na GitHub račun, a README.md datoteka projekta 
 * Dokumentiranost Web aplikacije
 * Rok u kojem se predala Web aplikacija i dokumentacija (postoje 2 roka)
 
-Web aplikaciju i popratnu dokumentaciju je potrebno dostaviti Niki Vrdoljaku i Stjepanu Buljatu na e-mail ( niko.vrdoljak@hotmail.com i sbuljat@gmail.com ).
-Pri pregledu prijave, ukoliko smatramo da su potrebne neke dorade na projektu, evidentirat ćemo "issues" zapise na GitHub-u projketa, koje ćete trebati "zatvoriti".
+Kad web aplikaciju i popratnu dokumentaciju završite pošaljite obavijest Niki Vrdoljaku i Stjepanu Buljatu na e-mail ( nvrdoljak@unizd.hr i sbuljat@unizd.hr ).
+Pri pregledu prijave, ukoliko smatramo da su potrebne neke dorade na projektu, evidentirat ćemo "issues" zapise na GitHub-u projekta, koje ćete trebati "zatvoriti".
 
-Prvi rok za predaju je do 14.02.2020. godine, a drugi rok za predaju je 28.02.2020. godine (krajnji rok).
+Prvi rok za predaju je do 19.02.2021. godine, a drugi rok za predaju je 05.03.2021. godine (krajnji rok).
